@@ -39,3 +39,6 @@ java -cp src/main/java taskmanager.Main
 
 ## Conclusion
 This Task Management System serves as a practical example of how design patterns can be utilized in a real-world application. It provides a solid foundation for understanding OOP principles and design patterns in Java.
+
+## Note
+This is an in-memory application without persistent storage. All tasks are lost when the program exits.
